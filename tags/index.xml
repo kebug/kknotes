@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - 标签 - KkNotes</title>
+        <title>Tags - Tag - KkNotes</title>
         <link>https://kebug.github.io/kknotes/tags/</link>
-        <description>Tags - 标签 - KkNotes</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://kebug.github.io/kknotes/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - KkNotes</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://kebug.github.io/kknotes/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>
