@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - 分类 - KkNotes</title>
-        <link>http://example.org/categories/</link>
+        <link>https://kebug.github.io/kknotes/categories/</link>
         <description>Categories - 分类 - KkNotes</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 27 Oct 2024 18:39:51 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 27 Oct 2024 18:39:51 &#43;0800</lastBuildDate><atom:link href="https://kebug.github.io/kknotes/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Documentation</title>
-    <link>http://example.org/categories/documentation/</link>
+    <link>https://kebug.github.io/kknotes/categories/documentation/</link>
     <pubDate>Sun, 27 Oct 2024 18:39:51 &#43;0800</pubDate><author>
         <name>作者</name>
-    </author><guid>http://example.org/categories/documentation/</guid>
+    </author><guid>https://kebug.github.io/kknotes/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
